@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es6",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "dist",
+    "allowJs": false,
+    "noEmit": true 
+  },
+  "lib": ["es2015"],
+  "compileOnSave": false,
+  "include": [ "app.ts" ]
+}
