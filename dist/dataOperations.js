@@ -3,9 +3,9 @@ const csv = require('csv-parser');
 const fs = require('fs');
 var stringify = require('csv-stringify');
 
-var booksPath = 'E:/internship Assignments/Raftlabs Playwith data NodeJs/data/books.csv';
-var AuthorPath = 'E:/internship Assignments/Raftlabs Playwith data NodeJs/data/authors.csv';
-var magazinesPath = 'E:/internship Assignments/Raftlabs Playwith data NodeJs/data/magazines.csv';
+var booksPath = '../data/books.csv';
+var AuthorPath = '../data/authors.csv';
+var magazinesPath = '../data/magazines.csv';
 
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!  Q1. Read CSV DATA !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
